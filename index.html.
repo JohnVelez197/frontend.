@@ -1,0 +1,6 @@
+cd frontend
+git init
+git add .
+git commit -m "Frontend Ayuda Mayores"
+git remote add origin https://github.com/tuusuario/ayuda-mayores-frontend.git
+git push -u origin main
